@@ -1,4 +1,4 @@
-package Blog;
+package Blog.Users;
 
 public interface UserDescription {
 
