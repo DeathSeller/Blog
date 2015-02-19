@@ -1,4 +1,4 @@
 package Blog.Users;
 
-public class Admin {
+public class Admin implements UserDescription{
 }

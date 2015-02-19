@@ -1,4 +1,4 @@
 package Blog.Users;
 
-public class User {
+public class User implements UserDescription {
 }
